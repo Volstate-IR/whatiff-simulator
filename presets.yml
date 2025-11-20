@@ -1,0 +1,231 @@
+Volunteer 2026-27:
+  last_year_total_points: 812
+  qaf_score: 91
+  fixed_costs: 6873840
+  progression12: 1937
+  progression24: 1449
+  progression36: 1232
+  associates: 1032
+  reverse_associates: 40
+  lt_certificates: 129
+  st_certificates: 316
+  dual_enrollment: 1759
+  transfer: 416
+  awards_per_fte: 29.0
+  job_placements: 468
+  workforce_training: 108788
+
+  # multipliers
+  sp_12_multiplier: 70.31
+  sp_24_multiplier: 76.54
+  sp_36_multiplier: 78.90
+  associates_multipler: 89.83
+  reverse_associates_multiplier: 80.00
+  lt_certificates_multipler: 106.98
+  st_certificates_multipler: 103.17
+
+  # scales
+  sp_12_scale: 5.00
+  sp_24_scale: 4.00
+  sp_36_scale: 3.00
+  associates_scale: 1.50
+  lt_certificates_scale: 2.00
+  st_certificates_scale: 2.50
+  dual_enrollment_scale: 2.25
+  transfer_scale: 1.50
+  awards_per_fte_scale: 0.05
+  job_placements_scale: 0.50
+  workforce_training_scale: 150.00
+
+  # weights
+  sp_12_weight: 3.0
+  sp_24_weight: 5.0
+  sp_36_weight: 7.0
+  associates_weight: 20.0
+  lt_certificates_weight: 12.5
+  st_certificates_weight: 12.5
+  dual_enrollment_weight: 10.0
+  transfer_weight: 10.0
+  awards_per_fte_weight: 5.0
+  job_placements_weight: 7.5
+  workforce_training_weight: 7.5
+
+  # misc
+  fixed_cost_constant: 15.0
+  qaf_constant: 5.45
+  statewide_points_earned: 34561
+  statewide_fixed_costs: 364930749
+
+Volunteer 2025-26:
+  last_year_total_points: 825
+  qaf_score: 95
+  fixed_costs: 6686867
+  progression12: 1844
+  progression24: 1406
+  progression36: 1222
+  associates: 1078
+  reverse_associates: 51
+  lt_certificates: 137
+  st_certificates: 305
+  dual_enrollment: 1764
+  transfer: 431
+  awards_per_fte: 30.0
+  job_placements: 449
+  workforce_training: 81329 
+
+  # multipliers
+  sp_12_multiplier: 69.90
+  sp_24_multiplier: 75.89
+  sp_36_multiplier: 78.07
+  associates_multipler: 90.35
+  reverse_associates_multiplier: 86.27
+  lt_certificates_multipler: 108.76
+  st_certificates_multipler: 102.95
+
+  # scales
+  sp_12_scale: 5.00
+  sp_24_scale: 4.00
+  sp_36_scale: 3.00
+  associates_scale: 1.50
+  lt_certificates_scale: 2.00
+  st_certificates_scale: 2.50
+  dual_enrollment_scale: 2.25
+  transfer_scale: 1.50
+  awards_per_fte_scale: 0.05
+  job_placements_scale: 0.50
+  workforce_training_scale: 150.00
+
+  # weights
+  sp_12_weight: 3.0
+  sp_24_weight: 5.0
+  sp_36_weight: 7.0
+  associates_weight: 20.0
+  lt_certificates_weight: 12.5
+  st_certificates_weight: 12.5
+  dual_enrollment_weight: 10.0
+  transfer_weight: 10.0
+  awards_per_fte_weight: 5.0
+  job_placements_weight: 7.5
+  workforce_training_weight: 7.5
+
+  # misc
+  fixed_cost_constant: 15.0
+  qaf_constant: 5.45
+  statewide_points_earned: 33004
+  statewide_fixed_costs: 346874196
+
+Volunteer 2024-25:
+  last_year_total_points: 848
+  qaf_score: 97
+  fixed_costs: 6361850
+  progression12: 1896
+  progression24: 1431
+  progression36: 1306
+  associates: 1131
+  reverse_associates: 69
+  lt_certificates: 150
+  st_certificates: 284
+  dual_enrollment: 1954
+  transfer: 468
+  awards_per_fte: 30.0
+  job_placements: 416
+  workforce_training: 61854
+
+  # multipliers
+  sp_12_multiplier: 67.62
+  sp_24_multiplier: 74.91
+  sp_36_multiplier: 78.94
+  associates_multipler: 89.66
+  reverse_associates_multiplier: 82.61
+  lt_certificates_multipler: 109.33
+  st_certificates_multipler: 103.87
+
+  # scales
+  sp_12_scale: 5.00
+  sp_24_scale: 4.00
+  sp_36_scale: 3.00
+  associates_scale: 1.50
+  lt_certificates_scale: 2.00
+  st_certificates_scale: 2.50
+  dual_enrollment_scale: 2.25
+  transfer_scale: 1.50
+  awards_per_fte_scale: 0.05
+  job_placements_scale: 0.50
+  workforce_training_scale: 150.00
+
+  # weights
+  sp_12_weight: 3.0
+  sp_24_weight: 5.0
+  sp_36_weight: 7.0
+  associates_weight: 20.0
+  lt_certificates_weight: 12.5
+  st_certificates_weight: 12.5
+  dual_enrollment_weight: 10.0
+  transfer_weight: 10.0
+  awards_per_fte_weight: 5.0
+  job_placements_weight: 7.5
+  workforce_training_weight: 7.5
+
+  # misc
+  fixed_cost_constant: 15.0
+  qaf_constant: 5.45
+  statewide_points_earned: 32699
+  statewide_fixed_costs: 332146974
+
+Pellissippi 2025-26:
+  last_year_total_points: 923
+  qaf_score: 89
+  fixed_costs: 10857806
+  progression12: 2467
+  progression24: 2109
+  progression36: 1818
+  associates: 1308
+  reverse_associates: 92
+  lt_certificates: 19
+  st_certificates: 413
+  dual_enrollment: 2482
+  transfer: 763
+  awards_per_fte: 28.7
+  job_placements: 391
+  workforce_training: 71328
+
+  # multipliers
+  sp_12_multiplier: 65.06
+  sp_24_multiplier: 68.04
+  sp_36_multiplier: 70.63
+  associates_multipler: 83.87
+  reverse_associates_multiplier: 69.57
+  lt_certificates_multipler: 100.0
+  st_certificates_multipler: 101.69
+
+  # scales
+  sp_12_scale: 5.00
+  sp_24_scale: 4.00
+  sp_36_scale: 3.00
+  associates_scale: 1.50
+  lt_certificates_scale: 2.00
+  st_certificates_scale: 2.50
+  dual_enrollment_scale: 2.25
+  transfer_scale: 1.50
+  awards_per_fte_scale: 0.05
+  job_placements_scale: 0.50
+  workforce_training_scale: 150.00
+
+  # weights
+  sp_12_weight: 2.0
+  sp_24_weight: 4.0
+  sp_36_weight: 6.5
+  associates_weight: 20.0 
+  lt_certificates_weight: 12.5 
+  st_certificates_weight: 15.0
+  dual_enrollment_weight: 7.5
+  transfer_weight: 10.0
+  awards_per_fte_weight: 10.0
+  job_placements_weight: 5.0
+  workforce_training_weight: 7.5
+
+  # misc
+  fixed_cost_constant: 15.0
+  qaf_constant: 5.45
+  statewide_points_earned: 34470
+  statewide_fixed_costs: 360946783
