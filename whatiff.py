@@ -7,7 +7,6 @@ with open("presets.yml", "r") as presets_file:
 
 st.set_page_config(layout="wide")
 
-st.image(image="logo.png")
 st.title("whatiFF - Funding Formula Simulator")
 st.markdown("A simple calculator that lets you alter the funding formula. Defaults to 2026-27 VSCC Funding Formula Data.")
 
