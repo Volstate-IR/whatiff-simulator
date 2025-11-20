@@ -408,7 +408,7 @@ with utility_column:
 st.divider()
 
 # Footer
-st.markdown("Office of Research, Assessment, and Special Initiatives - v0.2 - joshua.king@volstate.edu")
+st.markdown("Office of Research, Assessment, and Special Initiatives - v0.3 - joshua.king@volstate.edu")
 
 
 # COMBINING CALCULATIONS
